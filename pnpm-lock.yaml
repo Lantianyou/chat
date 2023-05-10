@@ -5,8 +5,8 @@ dependencies:
     specifier: ^1.9.3
     version: 1.9.3(react-redux@8.0.5)(react@18.2.0)
   '@types/node':
-    specifier: 18.16.0
-    version: 18.16.0
+    specifier: 18.16.7
+    version: 18.16.7
   '@types/react':
     specifier: 18.0.37
     version: 18.0.37
@@ -293,8 +293,8 @@ packages:
       hoist-non-react-statics: 3.3.2
     dev: false
 
-  /@types/node@18.16.0:
-    resolution: {integrity: sha512-BsAaKhB+7X+H4GnSjGhJG9Qi8Tw+inU9nJDwmD5CgOmBLEI6ArdhikpLX7DjbjDRDTbqZzU2LSQNZg8WGPiSZQ==}
+  /@types/node@18.16.7:
+    resolution: {integrity: sha512-MFg7ua/bRtnA1hYE3pVyWxGd/r7aMqjNOdHvlSsXV3n8iaeGKkOaPzpJh6/ovf4bEXWcojkeMJpTsq3mzXW4IQ==}
     dev: false
 
   /@types/prop-types@15.7.5:
